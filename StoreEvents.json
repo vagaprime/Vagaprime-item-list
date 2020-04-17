@@ -292,7 +292,7 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 8000,
+		"price": 22664,
 		"karmatype": "Good"
 	},
 	{
@@ -301,10 +301,25 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "healall",
+		"price": 17336,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "healme",
 		"price": 2167,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "surgery",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "passionshuffle",
+		"price": 2000,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 61
+	"total": 64
 }
